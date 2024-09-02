@@ -1,3 +1,0 @@
-local repo feature
-Remote repo feature
-Abhi sourt
